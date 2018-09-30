@@ -8,7 +8,7 @@ user = "XXXXXX"     #à remplir
 pwd = "XXXXXX"    #à remplir
 n_voie = '74'   #code correspondant à la voie 3A DS SA. La liste des codes est dans la source de la page https://pamplemousse.ensae.fr/index.php?p=400
 start_date = '2018-10-01'
-end_date = '2018-01-18'
+end_date = '2019-01-18'
 matieres=[381,2825,164,729,424,695,521,634,3412,4321,719]   #codes correspondants aux matières 3A DS SA. La liste des codes est dans la source de la page https://pamplemousse.ensae.fr/index.php?p=304
 
 
